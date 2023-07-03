@@ -1,0 +1,19 @@
+.main {
+    background: #152F4F;
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    
+    text-align: center;
+    color: rgb(226, 222, 216);
+}
+
+.nombres {
+    margin-bottom: 0px;
+}
+
+.comision {
+    font-size: small;
+    margin-top: 0px;
+}
